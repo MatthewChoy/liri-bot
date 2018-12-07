@@ -1,0 +1,25 @@
+{
+  "name": "liri-bot",
+  "version": "1.0.0",
+  "description": "homework8",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatthewChoy/liri-bot.git"
+  },
+  "author": "Matthew Choy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatthewChoy/liri-bot/issues"
+  },
+  "homepage": "https://github.com/MatthewChoy/liri-bot#readme",
+  "dependencies": {
+    "imdb": "^1.1.0",
+    "omdbapi": "^2.0.1",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  }
+}
